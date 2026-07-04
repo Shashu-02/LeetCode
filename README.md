@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashu-02/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shashu-02/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shashu-02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shashu-02/LeetCode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shashu-02/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -29,5 +30,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shashu-02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shashu-02/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
