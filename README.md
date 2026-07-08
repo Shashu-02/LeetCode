@@ -30,16 +30,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shashu-02/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shashu-02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shashu-02/LeetCode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shashu-02/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shashu-02/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shashu-02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shashu-02/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shashu-02/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shashu-02/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shashu-02/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shashu-02/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Shashu-02/LeetCode/tree/master/1894-merge-strings-alternately) |
