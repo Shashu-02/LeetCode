@@ -1,14 +1,17 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        ArrayList<Integer> ls=new ArrayList<>();
+        HashMap<Integer,Integer> map=new HashMap<>();
         ArrayList<Integer> res=new ArrayList<>();
-        for(int x:nums1) ls.add(x);
+        for(int x:nums1) map.put(x,map.getOrDefault(x,0)+1);
         for(int x:nums2){
-            if(ls.contains(x)){
+            if(map.containsKey(x)){
+                map.put(x,map.get(x)-1);
                 res.add(x);
-                ls.remove(Integer.valueOf(x));
+                if(map.get(x)==0){
+                    map.remove(x);
+                }
             }
-        }   
+        }
         int arr[]=new int[res.size()];
         int i=0;
         for(int x:res){
